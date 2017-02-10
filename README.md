@@ -6,7 +6,7 @@
 <h3>FreeBSD:</h3>
   make и файл "<b>Makefile.bsd</b>"
 <h3>Linux:</h3>
-  make и файл "<b>Makefile.linux</b>"
+  make -f "<b>Makefile.linux</b>"
 <h3>OS X:</h3>
   make и файл "<b>Makefile.apple</b>"
   
